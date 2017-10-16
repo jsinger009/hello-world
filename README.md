@@ -1,2 +1,2 @@
 # hello-world
-Hello World
+My first Hello World app in Golang!
